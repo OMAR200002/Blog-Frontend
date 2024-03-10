@@ -1,0 +1,13 @@
+.login {
+    height: 100vh;
+    background-color: var(--main-color);
+    margin-top: 0px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.form-container {
+    background-color: white;
+    padding: 30px;
+    border-radius: 20px;
+}
